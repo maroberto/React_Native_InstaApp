@@ -1,6 +1,6 @@
 # React Native Tela clone do Instagram
 
-## Resultado da ultima aula do de React Native. 
+## Resultado da ultima aula de React Native. 
 Esta aplicação simples é resultado dos meus estudos em React Native, uma reprodução da tela do Instagram. E nesta aula, usamos o Figma, para fazer uma prévia da interface.
 
 
